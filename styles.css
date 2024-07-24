@@ -1,0 +1,32 @@
+body {
+  background-color: #2C397F;
+  text-align: center;
+}
+
+p {
+  text-align: left;
+}
+
+h1 {
+  text-transform: uppercase;
+  padding: 2px;
+  font-size: 20px;
+}
+
+h2, h3 {
+  margin-top: 50px;
+  margin-bottom: 50px;
+}
+
+section {
+  box-shadow: 0px 0px;
+}
+
+.projects, .about, .contact {
+  overflow: auto;
+}
+
+footer {
+  height: 10px;
+  color: #2C397F;
+}
